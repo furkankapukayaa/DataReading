@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fhWossqfwMyWyEC4jz2cz20Im4xzygCWhGQS7BI2fqC3iBscwZVr9h/uRVenJ2f1unErxTJAyfMmAXI+hsB3qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Furkan\\source\\repos\\datapullread\\datapullread\\datapullread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furkan\\.nuget\\packages\\htmlagilitypack\\1.11.40\\htmlagilitypack.1.11.40.nupkg.sha512"
+  ],
+  "logs": []
+}

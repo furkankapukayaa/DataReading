@@ -1,0 +1,16 @@
+C:\Users\Furkan\source\repos\datapullread\datapullread\bin\Debug\netcoreapp3.1\datapullread.exe
+C:\Users\Furkan\source\repos\datapullread\datapullread\bin\Debug\netcoreapp3.1\datapullread.deps.json
+C:\Users\Furkan\source\repos\datapullread\datapullread\bin\Debug\netcoreapp3.1\datapullread.runtimeconfig.json
+C:\Users\Furkan\source\repos\datapullread\datapullread\bin\Debug\netcoreapp3.1\datapullread.runtimeconfig.dev.json
+C:\Users\Furkan\source\repos\datapullread\datapullread\bin\Debug\netcoreapp3.1\datapullread.dll
+C:\Users\Furkan\source\repos\datapullread\datapullread\bin\Debug\netcoreapp3.1\datapullread.pdb
+C:\Users\Furkan\source\repos\datapullread\datapullread\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Furkan\source\repos\datapullread\datapullread\obj\Debug\netcoreapp3.1\datapullread.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\datapullread\datapullread\obj\Debug\netcoreapp3.1\datapullread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\datapullread\datapullread\obj\Debug\netcoreapp3.1\datapullread.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\datapullread\datapullread\obj\Debug\netcoreapp3.1\datapullread.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\datapullread\datapullread\obj\Debug\netcoreapp3.1\datapullread.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\datapullread\datapullread\obj\Debug\netcoreapp3.1\datapullread.csproj.CopyComplete
+C:\Users\Furkan\source\repos\datapullread\datapullread\obj\Debug\netcoreapp3.1\datapullread.dll
+C:\Users\Furkan\source\repos\datapullread\datapullread\obj\Debug\netcoreapp3.1\datapullread.pdb
+C:\Users\Furkan\source\repos\datapullread\datapullread\obj\Debug\netcoreapp3.1\datapullread.genruntimeconfig.cache

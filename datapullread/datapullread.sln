@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datapullread", "datapullread\datapullread.csproj", "{AFEF9C73-9A18-4EF7-AE05-69C4B7B8ACEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEF9C73-9A18-4EF7-AE05-69C4B7B8ACEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEF9C73-9A18-4EF7-AE05-69C4B7B8ACEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEF9C73-9A18-4EF7-AE05-69C4B7B8ACEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEF9C73-9A18-4EF7-AE05-69C4B7B8ACEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A22D06D7-1C2F-4DD9-A1AF-766CD2C28267}
+	EndGlobalSection
+EndGlobal
